@@ -1,23 +1,12 @@
 {
-  "name": "reuse",
+  "name": "eldargab-reuse.js",
+  "description": "Utility for mixing and extending objects",
   "version": "1.0.0",
-  "description": "Funky way to extend your objects",
-  "scripts": {
-    "test": "mocha -R spec"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/eldargab/reuse.js.git"
-  },
   "keywords": [
-    "util",
     "mixin",
-    "extend"
+    "extend",
+    "util"
   ],
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  },
-  "author": "Eldar Gabdullin <eldargab@gmail.com>",
+  "dependencies": {},
   "license": "MIT"
 }
